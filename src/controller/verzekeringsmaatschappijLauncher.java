@@ -30,7 +30,7 @@ public class verzekeringsmaatschappijLauncher {
         int[] jarenLijst = new int[aantalPolissen];
         double[] premieLijst = new double[aantalPolissen];
 
-        // voor elk van de auto's wordt de naam van de eigenaar, waarde en aantal
+        // voor elk van de auto's wordt de naam van de eigenaar, waarde en aantal blabla
         // schadevrije jaren gevraagd, die vervolgens in de array's worden opgeslagen
         for (int i = 0; i < aantalPolissen; i++) {
             System.out.println("Autopolis " + (i + 1));
